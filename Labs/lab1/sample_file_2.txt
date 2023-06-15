@@ -1,0 +1,7 @@
+a b c d e f g 1 1 1 2 3 0
+joe fred bob bill andy
+mary margaret ann mary kathie
+the class may put some of us to sleep 
+
+10 20 50000 100000 1 1 1 
+10 10x 20 0 0 h i j k l m n o p
